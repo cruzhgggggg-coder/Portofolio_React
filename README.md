@@ -1,5 +1,8 @@
 # ZAKY PORTFOLIO - Creative Engineering & Visual Production
 
+![Portfolio Screenshot](./screenshot.png)
+
+
 Welcome to the professional portfolio of **Zaky Manggala**, a Computer Science student at Binus University specializing in Backend Engineering, AI Innovation, and Immersive Visual Production.
 
 This project is built using **React Native (Expo)** with a focus on high-end aesthetics, glassmorphism, and responsive layouts.
