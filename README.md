@@ -44,12 +44,12 @@ Bridging the gap between robust technical architecture and creative visual expre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cruzhgggggg-coder/ReactExpo_CV.git
+   git clone https://github.com/cruzhgggggg-coder/Portofolio_React.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd ReactExpo_CV/porto
+   cd Portofolio_React/porto
    ```
 
 3. Install dependencies:
